@@ -1,4 +1,8 @@
 Github project, working with the github api, main implementation on hooks.
+---
+- Navigation.
+- Routing.
+- Alert component.
 
 ---
 - Initial project.
