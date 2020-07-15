@@ -1,5 +1,12 @@
 Github project, working with the github api, main implementation on hooks.
 ---
+### Finished project
+- Set up requests.
+- Display of the main page.
+- User display.
+- Displays a list of repositories.
+
+---
 - Search component.
 - Github state.
 - Getting data from github.
