@@ -1,5 +1,10 @@
 Github project, working with the github api, main implementation on hooks.
 ---
+- Search component.
+- Github state.
+- Getting data from github.
+
+---
 - Navigation.
 - Routing.
 - Alert component.
